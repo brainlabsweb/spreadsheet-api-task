@@ -44,7 +44,7 @@ GOOGLE_REDIRECT_URI=<redirect_uris>
 ```
 You can find the details in ``credentials.json`` file in root directory of the application.
 
-**The are for the Google client basic config**
+**These are for the Google client basic config**
 
 Most of the details will come pre filled so no need to change them but can be changed based on requirement.
 
